@@ -1,5 +1,5 @@
 # MSc Courseworks - PNN
-This repository consists of files which includes reports of some of the courseworks I have completed in my MSc module: Pattern Recognition, Neural Networks, and Deep Learning. Each file is described below. 
+This repository consists of files which include reports of some of the courseworks I have completed in my MSc module: Pattern Recognition, Neural Networks, and Deep Learning. Each file is described below. 
 
 SVM.pdf
 - 
