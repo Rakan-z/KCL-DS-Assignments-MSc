@@ -4,6 +4,7 @@ This repository consists of files which include reports of some of the coursewor
 SVM.pdf
 - 
 - Grade: 94/100
+- The coursework report (including questions).
 - Coursework description: This assignment provides the overall classification idea from samples to design to classification. It helps you to make clear the concept, working principle, theory, classification of samples, design procedure and multiple-class classification techniques for SVM (Support Vector Machines).
 
 Ensemble.pdf
