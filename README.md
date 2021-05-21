@@ -1,4 +1,4 @@
-# KCL-Data-Science,
+# KCL-Data-Science
 This repository consists of folders which include some of the courseworks I have completed in my Data Science MSc at KCL. Each folder contains courseworks from a specific module listed below.
 
 PNN
